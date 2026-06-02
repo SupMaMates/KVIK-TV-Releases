@@ -1,5 +1,17 @@
 # Changelog
 
+## [1.0.3] - 2026-06-02
+
+### Added
+
+- Added an API-controlled `PODRSKA` support tile on the main screen.
+
+### Changed
+
+- Localized ORPlayer weekday and month labels to Croatian.
+- Standardized app-owned time displays and new profiles to 24-hour format.
+- Updated HTTP client identification to `KVIK TV App`.
+
 ## [1.0.2] - 2026-06-02
 
 ### Changed
