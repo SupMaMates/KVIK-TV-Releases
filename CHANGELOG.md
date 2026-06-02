@@ -1,5 +1,14 @@
 # Changelog
 
+## [1.0.5] - 2026-06-02
+
+### Fixed
+
+- Migrated existing installations to the 24-hour KVIK TV time default.
+- Localized the live channel-browser weekday and month labels to Croatian.
+- Replaced remaining `RECENT SEARCH` labels with `NEDAVNA PRETRAGA`.
+- Localized the settings-screen headers.
+
 ## [1.0.4] - 2026-06-02
 
 ### Changed
