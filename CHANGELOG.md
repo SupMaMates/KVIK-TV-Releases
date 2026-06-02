@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.0.4] - 2026-06-02
+
+### Changed
+
+- Localized weekday and month names to Croatian.
+- Changed the login action to `PRIJAVA`.
+- Localized important KVIK-facing navigation, search, favorites, settings, and EPG labels.
+
 ## [1.0.3] - 2026-06-02
 
 ### Added
