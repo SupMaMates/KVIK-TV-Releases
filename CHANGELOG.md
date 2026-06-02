@@ -1,5 +1,11 @@
 # Changelog
 
+## [1.0.2] - 2026-06-02
+
+### Changed
+
+- Standardized the displayed subscription-expiry date to `DD/MM/YYYY HH:MM`.
+
 ## [1.0.1] - 2026-06-02
 
 ### Fixed
