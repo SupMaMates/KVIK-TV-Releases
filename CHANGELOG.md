@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.0.6] - 2026-06-05
+
+### Changed
+
+- Removed legacy Android storage permissions from the app manifest.
+- Moved local media/recording defaults to KVIK TV app-specific storage.
+- Disabled inherited broad storage permission prompts in the main playback/navigation paths.
+
 ## [1.0.5] - 2026-06-02
 
 ### Fixed
